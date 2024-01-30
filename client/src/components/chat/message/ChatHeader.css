@@ -1,0 +1,36 @@
+.headerchat {
+    height: 48px;
+    background-color:#ccbeb3;
+    display: flex;
+    align-items: center;
+}
+
+.defaultImage {
+    height: 34px;
+    width: 34px;
+    object-fit: cover ;
+    border-radius: 50%;
+    margin-left: 10px !important;
+}
+
+.userName {
+    margin-left: 12px !important;
+    color: black;
+
+}
+
+.onlineStatus{
+    margin-left:  12px !important;
+    font-size: 12px !important;
+    color: rgb(0,0,0,0.6);
+}
+
+.icons{
+    margin-left: auto;
+    margin-right: 10px;
+    & >svg {
+       padding: 8px;
+       font-size: 38px;
+       color: black;
+    }
+}

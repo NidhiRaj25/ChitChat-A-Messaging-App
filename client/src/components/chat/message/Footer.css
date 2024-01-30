@@ -1,0 +1,33 @@
+.footerContainer {
+    height:60px  ;
+    background:#ccbeb3 ;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding: 0 15px;
+    & > * {
+        margin: 5px;
+        color:#968c85 ;
+    }
+    
+}
+
+.inputBase{
+    background-color: #f9f5eb;
+    border-radius: 18px;
+    width: calc(97% - 100px);
+}
+
+.input {
+    width: 100%;
+    padding: 20px;
+    height: 20px;
+    text-align: left !important;
+    text-align-last: left;
+    
+    
+    
+    /* padding-left: 5px; */
+    font-size: 14px;
+
+}

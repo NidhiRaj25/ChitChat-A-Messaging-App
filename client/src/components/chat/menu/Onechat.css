@@ -1,0 +1,42 @@
+.chatView {
+    display: flex ;
+    height:  55px !important;
+    padding: 13px 8px 0px 8px !important;
+    margin-bottom:10px ;
+    cursor: pointer;
+}
+.Image {
+    width: 40px;
+    border-radius: 50%;
+    /* padding-right: 10px; */
+
+}
+.userImage{
+    padding-right: 8px;
+}
+.userName{
+    font-size: .9rem !important;
+}
+
+.container{
+    display: flex;
+    max-width: 100% !important;
+    /* min-width: 350px; */
+}
+
+.timeStamp{
+    font-size: 12px !important;
+    margin-left: auto !important;
+    color: #00000099 ;
+   
+}
+
+.displaytext{
+    font-size: 14px !important;
+    color: #00000099 ;
+    margin-left: 11px !important;
+    white-space: nowrap ;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 300px;
+}

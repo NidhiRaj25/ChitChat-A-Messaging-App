@@ -1,0 +1,54 @@
+.ImageContainer{
+    display:flex;
+    justify-content: center;
+}
+
+.nameStyle{
+    background-Color:#fff;
+    box-shadow: 0 1px 3px rgba(0,0 ,0 ,0.08);
+    padding:12px 30px 2px;
+}
+.name{
+    color:#a9907e;
+    font-weight:500!important;
+    font-size: 14px !important;
+    
+}
+.accountName{
+    padding: 15px 0;
+    color: #4A4A4A;
+    font-size: 15px !important;
+}
+
+.aboutStyle{
+    background-Color:#fff;
+    box-shadow: 0 1px 3px rgba(0,0 ,0 ,0.08);
+    padding:12px 30px 2px;
+   
+}
+
+.about{
+    color:#a9907e;
+    font-weight:500!important;
+    font-size: 14px !important;
+    
+}
+.email{
+    padding: 15px 0;
+    color:#a9907e;
+    font-size: 15px !important;
+    font-weight:500!important;
+}
+.accountEmail{
+    padding-bottom: 15px;
+    font-size: 15px !important;
+}
+.blank{
+    /* height: 40px; */
+    font-size: 13px;
+    color:#705542;
+    padding: 15px 30px;
+}
+
+
+

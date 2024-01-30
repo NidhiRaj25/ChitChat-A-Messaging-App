@@ -1,0 +1,16 @@
+.messageContainer {
+    /* background-color: white !important; */
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpngmagic%2Fwhite-background-images%2F&psig=AOvVaw01c5vvu-Kg43vnMjsTvcuw&ust=1695720785131000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjbsKG6xYEDFQAAAAAdAAAAABAE") !important;
+    background-size: 50%;
+}
+.messageBox {
+    height: 80.7vh !important;
+    overflow-y:scroll ;
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    
+}
+
+.Container{
+    padding : 2px 20px;
+}

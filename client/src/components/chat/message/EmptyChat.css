@@ -1,0 +1,30 @@
+.Component{
+    padding:30px 0;
+    text-align:center;
+    height:95vh;
+}
+
+.Container{
+    padding:0 200px;
+}
+
+.textA{
+    font-size: 32px !important;
+    margin: 0px 0 10px 0 !important;
+    font-family: inherit !important;
+    font-weight: 500 !important ;
+    color: #41525d;
+}
+.textB{
+    font-size: 14px !important;
+    color: #667781;
+    font-weight: 400 !important;
+    font-family: inherit !important;
+
+}
+.textC{
+    padding: 100px 0 0 0;
+    font-size: 10px !important;
+    font-weight: 400 !important;
+    font-family: inherit !important;
+}
